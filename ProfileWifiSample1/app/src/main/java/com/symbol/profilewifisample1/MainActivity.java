@@ -1,5 +1,5 @@
 /*
-* Copyright (C) 2015 Symbol Technologies LLC
+* Copyright (C) 2015-2016 Symbol Technologies LLC
 * All rights reserved.
 */
 package com.symbol.profilewifisample1;
